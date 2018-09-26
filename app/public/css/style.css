@@ -172,7 +172,7 @@ background-color: whitesmoke !important;
 }
 
 .ad-tag {
-    position: fixed;
+    position: absolute;
     margin-top: -50px;
     margin-left: 950px;
     font-size: 11px;
