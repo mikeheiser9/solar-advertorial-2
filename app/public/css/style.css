@@ -171,6 +171,13 @@ background-color: whitesmoke !important;
     text-align: center;
 }
 
+.ad-tag {
+    position: fixed;
+    margin-top: -50px;
+    margin-left: 950px;
+    font-size: 11px;
+}
+
 .second-half {
     margin-top: -40px;
 }
